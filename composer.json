@@ -32,7 +32,7 @@
         "wpackagist-plugin/display-posts-shortcode": "^2.9",
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
 
-        "pzoechner/iaeste-cer-wp-summer-app-theme": "^0.1"
+        "pzoechner/iaeste-cer-summer-app-theme": "^0.1"
     },
     "autoload": {
         "psr-0": {
