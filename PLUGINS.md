@@ -24,6 +24,15 @@ We use this plugin to create backups of the installation. It also can handle mig
 
 Website: [Link](https://wordpress.org/plugins/all-in-one-wp-migration/)
 
+## Super Progressive Web Apps
+Enables PWA powers!
+
+WordPress: [Link](https://wordpress.org/plugins/super-progressive-web-apps/)
+
+Website: [Link](https://superpwa.com/)
+
+Docs: [Link](https://superpwa.com/docs/)
+
 ## IAESTE CER Summer App Theme
 The custom theme for the project.
 
