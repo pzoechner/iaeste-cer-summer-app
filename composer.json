@@ -11,13 +11,28 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
+        },
+        {
+            "type": "package",
+            "package": {
+                "name": "pzoechner/iaeste-cer-summer-app-theme",
+                "type": "wordpress-theme",
+                "version": "0.1",
+                "source": {
+                    "url": "https://github.com/pzoechner/iaeste-cer-summer-app-theme.git",
+                    "type": "git",
+                    "reference": "origin/master"
+                }
+            }
         }
     ],
     "require": {
         "wpackagist-plugin/advanced-custom-fields": "^5.7",
         "wpackagist-plugin/custom-post-type-ui": "^1.6",
         "wpackagist-plugin/display-posts-shortcode": "^2.9",
-        "wpackagist-plugin/all-in-one-wp-migration": "^6.82"
+        "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
+
+        "pzoechner/iaeste-cer-wp-summer-app-theme": "^0.1"
     },
     "autoload": {
         "psr-0": {
