@@ -18,7 +18,7 @@ On our front page we want to show specific content. With this plugin we can sele
 [Website](https://wordpress.org/plugins/display-posts-shortcode/) | [Usage](https://github.com/billerickson/display-posts-shortcode)
 
 ## All In One WP Migration
-We use this plugin to create backups of the installation. It also can handle migrations in case we decide to move the installation to another server ot URL.
+We use this plugin to create backups of the installation. It also can handle migrations in case we decide to move the installation to another server or URL.
 
 [Website](https://wordpress.org/plugins/all-in-one-wp-migration/)
 
