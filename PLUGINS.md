@@ -16,6 +16,7 @@ Website: [Link](https://pluginize.com/plugins/custom-post-type-ui/)
 On our front page we want to show specific content. With this plugin we can select custom post types and filter them to our needs.
 
 Website: [Link](https://wordpress.org/plugins/display-posts-shortcode/)
+
 Usage: [Github](https://github.com/billerickson/display-posts-shortcode)
 
 ## All In One WP Migration
