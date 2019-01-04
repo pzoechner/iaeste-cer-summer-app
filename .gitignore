@@ -26,3 +26,4 @@ sitemap.xml.gz
 xmlrpc.php
 
 vendor/
+composer.lock
