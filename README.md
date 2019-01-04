@@ -12,7 +12,7 @@ In case you already have an existing WordPress installation, you can skip steps 
     * `wget https://wordpress.org/latest.tar.gz`
     * Extract WordPress into current directory
     
-      `tar -xzvf latest.tar.gz && mv wordpress/* . && rmdir wordpress`
+      `tar -xzvf latest.tar.gz && mv wordpress/* . && rmdir wordpress && rm latest.tar.gz`
 
 2. Install this repository
     * Go to the WordPress root directory
