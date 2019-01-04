@@ -27,6 +27,8 @@ In case you already have an existing WordPress installation, you can skip steps 
 4. Initial WordPress setup (setting up database, etc.)
 5. Activate the theme `IAESTE CER Summer App` and all plugins
 
+## Plugins
+Head over to [Plugins.md](PLUGINS.md) for more information.
 
 ## Roadmap
 
