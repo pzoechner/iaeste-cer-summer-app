@@ -34,4 +34,4 @@ Head over to [Plugins.md](PLUGINS.md) for more information.
 
 - [x] Add theme repository
 - [ ] (many other important things)
-- [ ] Add [auto `git pull` and `composer update`](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa) on new `git push`?
+- [ ] [Check for new version](https://stackoverflow.com/a/3278427/1163881), if true `git pull` and `composer update`
