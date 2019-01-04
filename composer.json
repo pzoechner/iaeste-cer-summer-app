@@ -1,6 +1,8 @@
 {
-    "name": "iaeste-cer/summer-app",
+    "name": "pzoechner/iaeste-cer-summer-app",
     "type": "project",
+    "version": "0.1",
+    "license": "GPL-3.0-only",
     "authors": [
         {
             "name": "Phil Zoechner",
@@ -13,17 +15,8 @@
             "url":"https://wpackagist.org"
         },
         {
-            "type": "package",
-            "package": {
-                "name": "pzoechner/iaeste-cer-summer-app-theme",
-                "type": "wordpress-theme",
-                "version": "0.1",
-                "source": {
-                    "url": "https://github.com/pzoechner/iaeste-cer-summer-app-theme.git",
-                    "type": "git",
-                    "reference": "origin/master"
-                }
-            }
+            "type": "vcs",
+            "url": "https://github.com/pzoechner/iaeste-cer-summer-app-theme.git"
         }
     ],
     "require": {
@@ -32,7 +25,7 @@
         "wpackagist-plugin/display-posts-shortcode": "^2.9",
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
 
-        "pzoechner/iaeste-cer-summer-app-theme": "^0.1"
+        "pzoechner/iaeste-cer-summer-app-theme": "@dev"
     },
     "autoload": {
         "psr-0": {
