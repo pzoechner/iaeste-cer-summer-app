@@ -1,0 +1,26 @@
+{
+    "name": "iaeste-cer/summer-app",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Phil Zoechner",
+            "email": "philipp.zoechner@iaeste.at"
+        }
+    ],
+    "repositories":[
+        {
+            "type":"composer",
+            "url":"https://wpackagist.org"
+        }
+    ],
+    "require": {
+        "wpackagist-plugin/advanced-custom-fields": "^5.7",
+        "wpackagist-plugin/custom-post-type-ui": "^1.6",
+        "wpackagist-plugin/display-posts-shortcode": "^2.9"
+    },
+    "autoload": {
+        "psr-0": {
+            "Acme": "src/"
+        }
+    }
+}
