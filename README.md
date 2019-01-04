@@ -25,11 +25,11 @@ In case you already have an existing WordPress installation, you can skip steps 
     * `composer update`
 
 4. Initial WordPress setup (setting up database, etc.)
-5. Activate Themes and Plugins
+5. Activate the theme `iaeste-cer-summer-app-theme` and all plugins
 
 
 ## Roadmap
 
-- [ ] Add Theme repository
+- [x] Add Theme repository
 - [ ] (many other important things)
 - [ ] Add [auto `git pull` and `composer update`](https://gist.github.com/noelboss/3fe13927025b89757f8fb12e9066f2fa) on new `git push`?
