@@ -19,7 +19,7 @@ In case you already have an existing WordPress installation, you can skip steps 
     * `git init`
     * `git remote add origin https://github.com/pzoechner/iaeste-cer-summer-app.git`
     * `git fetch origin`
-    * `git checkout -b master --track origin/master`
+    * `git checkout -b master --track origin/master` (you can also checkout `develop`. This will require the dev branch of the theme for example.)
 
 3. Install required Composer packages
     * `composer update`
