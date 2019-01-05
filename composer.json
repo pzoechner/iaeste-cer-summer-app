@@ -26,7 +26,7 @@
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
         "wpackagist-plugin/super-progressive-web-apps": "^2.0",
 
-        "pzoechner/iaesteCerSummerAppTheme": "@dev"
+        "pzoechner/iaesteCerSummerAppTheme": "dev-develop"
     },
     "autoload": {
         "psr-0": {
