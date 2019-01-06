@@ -25,7 +25,7 @@ In case you already have an existing WordPress installation, you can skip steps 
 
 
 ## Development
-To make the included theme git-aware, do the following:
+To make the included [theme](https://github.com/pzoechner/iaeste-cer-summer-app-theme) git-aware, do the following:
 
 * Go to the WordPress root directory
 * `cd wp-content/themes/iaeste-cer-summer-app-theme/`
