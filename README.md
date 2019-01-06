@@ -14,14 +14,18 @@ In case you already have an existing WordPress installation, you can skip steps 
     
       `tar -xzvf latest.tar.gz && mv wordpress/* . && rmdir wordpress && rm latest.tar.gz`
 
+<!--
 2. Install this repository
     * Go to the WordPress root directory
     * `git init`
     * `git remote add origin https://github.com/pzoechner/iaeste-cer-summer-app.git`
     * `git fetch origin`
     * `git checkout -b master --track origin/master` (you can also checkout `develop`. This will require the dev branch of the theme for example.)
-
+ -->
 3. Install required Composer packages
+
+    * `composer config repositories.wpackagist '{ "type":"composer", "url":"https://wpackagist.org" }'`
+    * `composer require pzoechner/iaeste-cer-summer-app`
     * `composer update`
 
 4. Initial WordPress setup (setting up database, etc.)
