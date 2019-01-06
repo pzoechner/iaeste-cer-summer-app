@@ -13,10 +13,6 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/pzoechner/iaeste-cer-summer-app-theme.git"
         }
     ],
     "require": {
@@ -26,7 +22,7 @@
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
         "wpackagist-plugin/super-progressive-web-apps": "^2.0",
 
-        "pzoechner/iaesteCerSummerAppTheme": "dev-master"
+        "pzoechner/iaeste-cer-summer-app-theme": "^0.2"
     },
     "autoload": {
         "psr-0": {
