@@ -15,8 +15,9 @@ In case you already have an existing WordPress installation, you can skip steps 
     
       `tar -xzvf latest.tar.gz && mv wordpress/* . && rmdir wordpress && rm latest.tar.gz`
 
-2. Install required Composer packages
+2. Install Composer package in root of WordPress installation
 
+    * `echo {} > composer.json`
     * `composer config repositories.wpackagist '{ "type":"composer", "url":"https://wpackagist.org" }'`
     * `composer require pzoechner/iaeste-cer-summer-app`
 
