@@ -31,9 +31,11 @@ To make the included [theme](https://github.com/pzoechner/iaeste-cer-summer-app-
 * Go to the WordPress root directory
 * `cd wp-content/themes/iaeste-cer-summer-app-theme/`
 * `git init`
+* `rm -r * && rm .gitignore`
 * `git remote add origin https://github.com/pzoechner/iaeste-cer-summer-app-theme.git`
-* `git fetch origin`
-* `git checkout -b master --track origin/master`
+* `git pull origin master`
+
+This is pretty ugly. Please update if you know of a better way.
 
 
 ## Plugins
