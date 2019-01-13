@@ -37,9 +37,11 @@ To make the included [theme](https://github.com/pzoechner/iaeste-cer-summer-app-
 
 This is pretty ugly. Please update if you know of a better way.
 
+## How to contribute
+In case you haven't contributed to an Open Source project before, please quickly read through [this guide](https://github.com/firstcontributions/first-contributions) to get an idea of how to clone projects and send PRs (pull requests).
 
 ## Plugins
-Head over to [Plugins.md](PLUGINS.md) for more information.
+Head over to [Plugins.md](docs/PLUGINS.md) for more information.
 
 
 ## Roadmap
