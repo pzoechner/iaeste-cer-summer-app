@@ -1,12 +1,11 @@
 # IAESTE CER Summer App
-The official IAESTE CER Summer App build with WordPress + PWA functionality.
+The official IAESTE CER Summer App built with WordPress + PWA functionality.
 
-This repository is Composer-driven and does not include a WordPress installation. So, no changes on WordPress Core files should be made; Plugins and Themes are required in `composer.json`.
-There are ways to add WordPress itself as a dependency but until now the community decided against publishing an official Composer package. That's the reasoning behind this approach.
-
+This repository is Composer-driven and does not include a WordPress installation. Plugins and Themes are required and updated via the `composer.json`.
+There are ways to add WordPress itself as a dependency but until now the community decided against publishing an official Composer package. That's the reasoning behind following this approach.
 
 ## Installation
-In case you already have an existing WordPress installation, you can skip steps 1 and 4.
+In case you already have an existing WordPress installation, you can skip step 1.
 
 1. Get a clean copy of the [latest Wordpress](https://codex.wordpress.org/Installing_WordPress) (`5.0.2` of this writing)
     * Go to the folder where WordPress should be installed
@@ -23,6 +22,7 @@ In case you already have an existing WordPress installation, you can skip steps 
 
 3. Initial WordPress setup (setting up database, etc.)
 4. Activate the theme `IAESTE CER Summer App` and all plugins
+5. Import the Plugin configuration from the JSON files in [/data](https://github.com/pzoechner/iaeste-cer-summer-app/blob/master/data/).
 
 
 ## Development
