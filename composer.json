@@ -18,7 +18,6 @@
     "require": {
         "wpackagist-plugin/advanced-custom-fields": "^5.7",
         "wpackagist-plugin/custom-post-type-ui": "^1.6",
-        "wpackagist-plugin/display-posts-shortcode": "^2.9",
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
         "wpackagist-plugin/super-progressive-web-apps": "^2.0",
 
