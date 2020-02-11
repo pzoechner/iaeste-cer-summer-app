@@ -3,7 +3,7 @@ A list of the required plugins and themes.
 
 ## Advanced Custom Fields
 This is used to specify pre-defined fields for Custom Post Types.
-See examples on how to retrieve values in theme [here]((https://www.advancedcustomfields.com/resources/the_field/#example))
+See examples on how to retrieve values in theme [here](https://www.advancedcustomfields.com/resources/the_field/#example)
 
 [Website](https://www.advancedcustomfields.com/)
 
