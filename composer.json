@@ -1,7 +1,7 @@
 {
     "name": "pzoechner/iaeste-cer-summer-app",
     "type": "project",
-    "version": "0.1",
+    "version": "0.1.1",
     "license": "GPL-3.0-only",
     "authors": [
         {
@@ -13,16 +13,11 @@
         {
             "type":"composer",
             "url":"https://wpackagist.org"
-        },
-        {
-            "type": "vcs",
-            "url": "https://github.com/pzoechner/iaeste-cer-summer-app-theme.git"
         }
     ],
     "require": {
         "wpackagist-plugin/advanced-custom-fields": "^5.7",
         "wpackagist-plugin/custom-post-type-ui": "^1.6",
-        "wpackagist-plugin/display-posts-shortcode": "^2.9",
         "wpackagist-plugin/all-in-one-wp-migration": "^6.82",
         "wpackagist-plugin/super-progressive-web-apps": "^2.0",
 
